@@ -6,7 +6,7 @@ int main()
    int array[5] = {3, 2, 5, 4, 1};
    int second = secondLargest(array, 5);
      if(second != -1){
-       printf("Third Largets: %d", third);
+       printf("Third Largets: %d", second);
     }  
 }
 
