@@ -8,7 +8,9 @@ int main(){
 
     if(third != -1){
        printf("Third Largets: %d", third);
-    }   
+    }else{
+        printf("Program failed\n");
+    }
     
     
 }

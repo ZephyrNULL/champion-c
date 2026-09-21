@@ -5,9 +5,11 @@ int main()
 {
    int array[5] = {3, 2, 5, 4, 1};
    int second = secondLargest(array, 5);
-     if(second != -1){
-       printf("Third Largets: %d", second);
-    }  
+   if(second != -1){
+       printf("Second Largets: %d", second);
+    }else{
+        printf("Program failed\n");
+    }
 }
 
 
