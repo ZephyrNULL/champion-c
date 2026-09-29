@@ -1,0 +1,28 @@
+Name: Alice
+
+Name: Jane Williams
+
+Name: Leon Arthur
+
+Name: William Crooks
+
+Name: James Heisenberg
+
+Name: Alice | Age: 20 | GPA: 3
+Name: William | Age: 24 | GPA: 3
+Name: James | Age: 24 | GPA: 3
+Name: Alice | Age: 20 | GPA: 3.680000
+Name: William | Age: 24 | GPA: 3.740000
+Name: James | Age: 24 | GPA: 3.870000
+Name: Alice | Age: 20 | GPA: 3.68
+Name: William | Age: 24 | GPA: 3.74
+Name: James | Age: 24 | GPA: 3.87
+Name: Alice | Age: 20 | GPA: 3.68
+Name: William | Age: 24 | GPA: 3.74
+Name: James | Age: 24 | GPA: 3.87
+Name: Alice | Age: 20 | GPA: 3.68
+Name: William | Age: 24 | GPA: 3.74
+Name: James | Age: 24 | GPA: 3.87
+Name: Alice | Age: 20 | GPA: 3.68
+Name: William | Age: 24 | GPA: 3.74
+Name: James | Age: 24 | GPA: 3.87
