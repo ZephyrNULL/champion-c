@@ -1,0 +1,1 @@
+Here are the two ways to do it depending on how you're representing the number:
